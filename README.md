@@ -2,6 +2,7 @@
 - 🌱 I need to find something to put here
 - 📫 How to reach me : massi.pepe.c@gmail.com
 
+  [Portfolio](https://portfolio-git-main-maximilianpeppers-projects.vercel.app/)
   ### Latest works
 * [Shopping Cart](https://maximilianpepper.github.io/shopping-cart/)
 * [Sorting algorithm visualizer made with react](https://github.com/MaximilianPepper/sortingvisualizer)
